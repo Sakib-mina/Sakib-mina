@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **kotlin,Android Advance topics**
 
-- 👨‍💻 All of my projects are available at [[https://github.com/Sakib-mina](https://github.com/Sakib-mina)](https://github.com/Sakib-mina?tab=repositories)
+- 👨‍💻 All of my projects are available at (https://github.com/Sakib-mina?tab=repositories)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/sakib-mina-75485b251/recent-activity/all/](https://www.linkedin.com/in/sakib-mina-75485b251/recent-activity/all/)
 
