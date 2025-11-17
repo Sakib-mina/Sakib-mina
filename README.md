@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sakib</h1>
-<h3 align="center">A passionate Freelance Android Devoloper</h3>
+<h3 align="center">A passionate Full Steak Mobile Devoloper</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakib-mina&label=Profile%20views&color=0e75b6&style=flat" alt="sakib-mina" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/sakib-mina-75485b251/recent-activity/all/](https://www.linkedin.com/in/sakib-mina-75485b251/recent-activity/all/)
 
-- 💬 Ask me about **kotlin,Android**
+- 💬 Ask me about **kotlin,Android,Java,Node,Express,React native,CICD,Devops,System Design**
 
 - 📫 How to reach me **sakibmina83@gmail.com**
 
