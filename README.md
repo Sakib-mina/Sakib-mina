@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakib-mina&label=Profile%20views&color=0e75b6&style=flat" alt="sakib-mina" /> </p>
 
-- 🌱 I’m currently learning **kotlin,Android Advance topics**
+- 🌱 I’m currently learning **System Design**
 
 - 👨‍💻 All of my projects are available at (https://github.com/Sakib-mina?tab=repositories)
 
