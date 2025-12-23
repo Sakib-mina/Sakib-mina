@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sakib</h1>
-<h3 align="center">A passionate Full Steak Mobile Devoloper</h3>
+<h3 align="center">A passionate Full Steak Software Enginerr</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakib-mina&label=Profile%20views&color=0e75b6&style=flat" alt="sakib-mina" /> </p>
 
